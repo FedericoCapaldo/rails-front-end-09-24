@@ -239,6 +239,7 @@ PLATFORMS
   arm64-darwin-22
 
 DEPENDENCIES
+  autoprefixer-rails
   bootsnap
   bootstrap (~> 5.2)
   capybara
